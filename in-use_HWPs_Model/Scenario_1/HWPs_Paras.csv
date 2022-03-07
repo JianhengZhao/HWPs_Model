@@ -1,0 +1,16 @@
+Para_Name,Unit,Description,Value
+con_dp1,,construction disposal rate parameter 1 ,0.116
+con_dp2,,construction disposal rate parameter 2,0.264
+con_dp3,year,construction disposal rate parameter 3,40
+hma_dp1,,home application disposal rate parameter 1 ,0.184
+hma_dp2,,home application disposal rate parameter 2,0.51
+hma_dp3,year,home application disposal rate parameter 3,30
+nwp_dp1,,newsprint paper disposal rate parameter 1 ,0.505
+nwp_dp2,,newsprint paper disposal rate parameter 2,0.036
+nwp_dp3,year,newsprint paper disposal rate parameter 3,5
+pwp_dp1,,printing and writing paper disposal rate parameter 1 ,0.256
+pwp_dp2,,printing and writing paper disposal rate parameter 2,0.02
+pwp_dp3,year,printing and writing paper disposal rate parameter 3,10
+otp_dp1,,Other paper disposal rate parameter 1 ,0.916
+otp_dp2,,Other paper disposal rate parameter 2,1.264
+otp_dp3,year,Other paper disposal rate parameter 3,4
